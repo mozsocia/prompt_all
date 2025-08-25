@@ -36,4 +36,6 @@ Generate the new code now, for code part start with the "File: [path]" line exac
 
 Generate the new code now, adhering exactly to this structure for each code part: Start with the line "File: [path]" precisely as shown (replacing [path] with the actual file path), immediately followed by the code block wrapped in triple backticks with the language identifier (e.g., ```python). End after the closing triple backticks. Repeat this for multiple files if needed, with no other text in between or after. Violation of this format is not permitted.
 
+Generate the new code now, adhering exactly to this structure for each code part: Start with the line "File: [path]" precisely as shown (replacing [path] with the actual file path) on its own line, followed by a newline, then the code block wrapped in triple backticks with the language identifier (e.g., ```python). End after the closing triple backticks, followed by a newline if there is another file. Repeat this for multiple files if needed, ensuring a newline separates the closing triple backticks of one file from the "File: [path]" line of the next, Violation of this format is not permitted.
+
 Let's Think Step by Step
