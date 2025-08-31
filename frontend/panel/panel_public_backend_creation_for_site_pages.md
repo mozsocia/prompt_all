@@ -8,6 +8,11 @@
   
 5. for laravel give page controller blade.php model to make the blade file dynamic 
 
+---
+## for homepage
+for home page make seperate model for slider, then seperate model for all other static data (promo , offer, actions) 
+## 
+for header footer make 'general settings' model with logo compant name
 
 
 
