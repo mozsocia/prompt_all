@@ -2,6 +2,12 @@
 
 2. for sql do not make nested object in model(for naming convention see below model examples), for mongoose it can make nested object in model
 
+3. after making the model , give ai the new model and example model, controller, route ( for Brand/Book model) to create panel api first
+
+4. for mern after creating panel api controller then give ai the new controller route model to add '/public' api for frontend then use that '/public' api to create next js files step by step
+  
+5. for laravel give page controller blade.php model to make the blade file dynamic 
+
 
 
 
