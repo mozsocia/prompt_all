@@ -37,4 +37,24 @@ so give all the details without the codes , i ask the codes after this first res
 ---
 
 
-## process guide
+## process guide 
+
+- The LLM  must make a component to show preview which will be placed on top of file upload input 
+
+- LLM must not manage or process any state outside of the edit-page file, 
+
+- for first and make it easy for LLM tell/let him make useState in for file removal state, no state for preview ( bad practice)
+
+- do not prepare data for submit in form state after user click submit prepare file to post in submit function
+
+- after success in above process then tell him to not use any state for file upload only use zod with react-hook-form
+
+- to not use seperate state you need to try to ask fresh multiple times to get a well structured output
+
+
+
+
+
+
+
+
