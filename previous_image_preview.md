@@ -39,7 +39,9 @@ so give all the details without the codes , i ask the codes after this first res
 
 ## process guide 
 
-- The LLM  must make a component to show preview which will be placed on top of file upload input 
+- The LLM  must make a component to show preview which will be placed on top of file upload input
+
+- LLM must not make a component to combine image preview with file upload, file upload input and image preview component must be seperated in edit-page file not abstract away in a compinent
 
 - LLM must not manage or process any state outside of the edit-page file, 
 
