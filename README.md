@@ -27,3 +27,11 @@ so give all the details without the codes , i ask the codes after this first res
 please give me updated part code only ( give before and after 2 lines code of modified part so i can understand where to put thme)
 
 ```
+
+
+### help me
+
+```
+now first tell the all the standard and best ways to do that in this kind of project
+i just want to all solutions details guide no codes now , i will ask codes later
+```
