@@ -53,6 +53,10 @@ update related code only, do not touch other codes
 ```
 
 
+```
+provide files in dependency order, starting with files that have no dependencies.
+```
+
 ### simplify
 ```
 for code part start with the "File: [path]" line exactly as in the example, followed by the code block wraped by triple backticks with the language identifier
