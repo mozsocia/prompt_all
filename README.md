@@ -36,11 +36,31 @@ now first tell the all the standard and best ways to do that in this kind of pro
 i just want to all solutions details guide no codes now , i will ask codes later
 ```
 
+```
+do not do any complexity in codes here , make the implementaion as simple as possible solve the problem 
+```
+
+```
+if you need some other files code please ask first before answer
+```
+
+```
+update related code only, do not touch other codes
+```
+
 ### simplify
 ```
 for code part start with the "File: [path]" line exactly as in the example, followed by the code block wraped by triple backticks with the language identifier
 
 do not do any complexity in codes here , make the implementaion as simple as possible solve the problem 
+
+Let's Think Step by Step
+```
+
+```
+Generate the new code/diff now, for code/diff part start with the "File: [path]" line ,in the next line followed by the code block/diff wraped by triple backticks with the language identifier.
+
+First Think and analyze deeply within 500 words then proceed
 
 Let's Think Step by Step
 ```
