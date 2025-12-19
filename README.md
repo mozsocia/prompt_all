@@ -19,6 +19,10 @@ so give all the details without the codes , i ask the codes after this first res
 
 ```
 
+```
+first describe me what will you do to solve the problem ( or multiple solution) , after i read the guide i will ask you to give solution codes
+```
+
 
 ### give the update part code 
 
@@ -47,6 +51,7 @@ if you need some other files code please ask first before answer
 ```
 update related code only, do not touch other codes
 ```
+
 
 ### simplify
 ```
