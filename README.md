@@ -59,9 +59,9 @@ provide files in dependency order, starting with files that have no dependencies
 
 ### simplify
 ```
-for code part start with the "File: [path]" line exactly as in the example, followed by the code block wraped by triple backticks with the language identifier
+Generate the new code now, for code part start with the "File: [path]" line , followed by the code block wraped by triple backticks with the language identifier.
 
-do not do any complexity in codes here , make the implementaion as simple as possible solve the problem 
+Make the code significantly shorter and cleaner without changing its behavior. Eliminate redundancy, leverage language idioms, and keep it highly readable for humans. Use the minimal amount of code necessary.
 
 Let's Think Step by Step
 ```
