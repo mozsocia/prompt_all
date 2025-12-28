@@ -1,6 +1,10 @@
 Here's a much better, clearer, and more effective prompt you can add (or replace your current one with) when asking an LLM to implement or refactor code:
 
 ```
+implementation to be minimal and elegant:  while keeping it fully functional, correct, and easy to understand and keep it highly readable for humans.
+```
+
+```
 Refactor the implementation to be as concise, clean, and minimal as possible while fully preserving all functionality, correctness, and readability. 
 
 Prioritize:
