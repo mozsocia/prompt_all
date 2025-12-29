@@ -4,6 +4,11 @@ Here's a much better, clearer, and more effective prompt you can add (or replace
 implementation to be minimal and elegant:  while keeping it fully functional, correct, and easy to understand and keep it highly readable for humans.
 ```
 
+
+```
+please make this ans short and consice
+```
+
 ```
 Refactor the implementation to be as concise, clean, and minimal as possible while fully preserving all functionality, correctness, and readability. 
 
