@@ -28,6 +28,7 @@ If you prefer no extensions, set up a reusable task:
 1. In your workspace folder, create a `.vscode` folder (if it doesn't exist).
 2. Inside it, create a file named `tasks.json`.
 3. Paste this configuration:
+4. or `ctrl+p` then `>tasks: open user tasks` then paste that task there
 
 ```json
 {
