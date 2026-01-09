@@ -34,24 +34,30 @@ If you prefer no extensions, set up a reusable task:
 {
     "version": "2.0.0",
     "tasks": [
-        {
-            "label": "Run Current Batch File",
-            "type": "shell",
-            "command": "${file}",
-            "args": [],
-            "options": {
-                "cwd": "${fileDirname}"
-            },
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            },
-            "presentation": {
-                "reveal": "always",
-                "panel": "shared"
-            },
-            "problemMatcher": []
+    {
+      "label": "Run Current Batch File",
+      "type": "shell",
+      "command": "${file}",
+      "args": [],
+      "options": {
+        "cwd": "${fileDirname}",
+        "shell": {
+          "executable": "cmd.exe",
+          "args": [
+            "/c"
+          ]
         }
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
     ]
 }
 ```
