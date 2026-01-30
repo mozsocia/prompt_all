@@ -1,7 +1,7 @@
 
 
 ```
-Analyze my staged changes and history using `git status; git diff --staged; git log -n 3`. Provide a concise commit message following the project's style. Output only the text of the message without line numbers or code blocks. so I can easily copy and paste it.
+Analyze my staged changes and history using `git status; git diff --staged; git log -n 3`. Provide a short commit message with some bullet point details following the project's style. Output only the text of the message without line numbers or code blocks. so I can easily copy and paste it.
 ```
 
 ```
