@@ -6,11 +6,15 @@ Analyze my staged changes and history using `git status; git diff --staged; git 
 
 ```
 
-first describe me what will you do to solve the problem and your Solution Plan to cover the most edge caseses , after i read the details solution plan i will ask you to give solution codes
+first describe me what will you do to solve the problem and your Solution Plan, after i read the details solution plan i will ask you to give solution codes
 
 do you need to see any other files that you have given if needed please ask 
 
 Let's Think Step by Step
+```
+
+```
+first describe me what will you do to solve the problem and your Solution Plan to cover the most edge caseses , after i read the details solution plan i will ask you to give solution codes
 ```
 
 ```
