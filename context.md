@@ -1,7 +1,7 @@
 
 
 ```
-Analyze only/ staged changes rovide a short commit message with some bullet point details following the project's style. Output only the text of the message without line numbers or code blocks. so I can easily copy and paste it.
+Analyze only/ staged changes (` git status ; git diff --staged ; git log -n 5` ) provide a short commit message with some bullet point details following the project's style. Output only the text of the message without line numbers or code blocks. so I can easily copy and paste it.
 ```
 
 ```
@@ -27,11 +27,10 @@ Let's Think Step by Step
 
 ```
 
-Generate the new code now, for code part start with the "File: [path]" line , followed by the code block wraped by triple backticks with the language identifier.
+Generate the new implementation code now, for code part start with the "File: [path]" line , followed by the code block wraped by triple backticks with the language identifier.
 
 implementation to be minimal and elegant  while keeping it fully functional, correct, easy to understand and keep it highly readable for humans. Prefer concise, idiomatic solutions over verbose ones.
 
-do you need to see any other files that you have given if needed please ask 
 
 Let's Think Step by Step
 ```
@@ -45,7 +44,8 @@ Generate the new code  now, for code part start with the "File: [path]" line , f
 
 implementation to be minimal and elegant  while keeping it fully functional, correct, easy to understand and keep it highly readable for humans. Prefer concise, idiomatic solutions over verbose ones.
 
-do you need to see any other files that you have given if needed please ask 
+
+this is one of the most important module so think/reason excessivly 
 
 Let's Think Step by Step
 ```
@@ -182,5 +182,49 @@ do not read or write any file, i have given all necessary context in this prompt
 
 
 Let's Think Step by Step
+
+```
+
+
+```
+teach me details with proper example because  i am new to accounting system , i only learned double entry system recently
+```
+
+
+
+```
+### 💡
+
+
+---
+### 🤖
+
+```
+
+
+```
+can can you please give me the full flow of 'invoice' module? i do not understand what will happen in the module screens , please show me what will happen in every stage and show me every screen what will user enter or do in thoose screen from first to last stage
+```
+
+
+```
+ok can you give me a honest ans ? ... . please explian me clearly is short 
+
+ans to be minimal and elegant  while keeping it fully functional, correct, easy to understand and keep it highly readable for humans. Prefer concise, idiomatic solutions over verbose ones.
+
+
+Let's Think Step by Step
+```
+
+
+```
+i am building an accouting management system for small business, i have done 'journal entry' module (manual journal entry) and also done "bill" module
+
+now i need to deeply understand the 'bill' module creating bill full workflow step by step.
+- i want to know how the create bill screen look like , what user sees and what user inputs in this screen
+- i want to know after bill creation screen how data flow goes from bill creation screen to database tables 
+- for the data flow from bill screen to db tables i want to know which files takes which data , for every data passing through every files/functions and which files/functions do which conversion/checking/ processes to do what 
+
+- specially make deep and clear flow of data in 'tax calculation' 'tax rounding' 'default account resolve' part , this is the most important part to understand in this module, if this 'tax calculation' 'tax rounding' part do not get clear understanding i can have a unusable or misunderstand accounting system
 
 ```
