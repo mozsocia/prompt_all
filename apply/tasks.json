@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Global: Apply File Changes",
+            "type": "shell",
+            "command": "node \"c:\\Users\\Mozdalif\\Desktop\\js_all\\file_apply.js\"",
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            }
+        }
+    ]
+}
