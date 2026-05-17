@@ -35,21 +35,27 @@ implementation to be minimal and elegant  while keeping it fully functional, cor
 Let's Think Step by Step
 ```
 
-====================================================================
-
 ```
-
-
-Generate the new code  now, for code part start with the "File: [path]" line , followed by the code block wraped by triple backticks with the language identifier.
+please give me the updated code parts only do not write the whole file please ,for code part start with the "File: [path]" line , followed by the code block wraped by triple backticks with the language identifier.
 
 implementation to be minimal and elegant  while keeping it fully functional, correct, easy to understand and keep it highly readable for humans. Prefer concise, idiomatic solutions over verbose ones.
 
 
-this is one of the most important module so think/reason excessivly 
+this is one of the most important module so think/reason excessivly to cover all cases and edge cases
+
+Let's Think Step by Step
+```
+====================================================================
+
+```
+think step by step and do not jump to conclusions
 
 Let's Think Step by Step
 ```
 
+```
+this is one of the most important module so think/reason excessively
+```
 ```
 please check again all steps if you missed any thing
 ```
@@ -75,9 +81,6 @@ Let's Think Step by Step
 make the implementation to be minimal and elegant while keeping it fully functional, correct, and easy to understand. Prefer concise, idiomatic solutions over verbose ones.
 ```
 
-```
-do not change any formatting of the files
-```
 
 ```
 first describe me what will you do to solve the problem , after i read the guide i will ask you to give solution codes
@@ -88,23 +91,7 @@ do you need to see any other files that you have given if needed please ask
 ```
 
 
-```
-Generate the new codes now
 
-make the implementation to be minimal and elegant while keeping it fully functional, correct, and easy to understand. Prefer concise, idiomatic solutions over verbose ones.
-
-do not think/reason over 30000 token, please do not think/reason over 30000 token, please do not think/reason over 30000 token.
-
-Let's Think Step by Step
-```
-
-```
-Let's Think Step by Step
-```
-
-```
-do not think/reason over 20000 token, please do not think/reason over 20000 token, please do not think/reason over 20000 token.
-```
 
 ```
 make a small docs for devs , what you did , why its needs, how it works, please make the docs in 150-170 lines 
@@ -112,52 +99,18 @@ make a small docs for devs , what you did , why its needs, how it works, please 
 
 
 
-```
 
 
-do not read or write any file, i have given all necessary context in this prompt , give me ans codes in this chat do not write any file please 
-
-make the implementation to be minimal and elegant while keeping it fully functional, correct, and easy to understand. Prefer concise, idiomatic solutions over verbose ones.
-
-
-Generate the new code now, for code part start with the "File: [path]" line , followed by the code block wraped by triple backticks with the language identifier.
-
-
-
-Let's Think Step by Step
-```
-
-```
-do not give any code examples , only markdown please, make the explanation with in 200 lines
-
-what other industries accounting software are doing it , what is the standard approach please help me its the most important work for my job , my job is depending on it
-
-first describe me in details about the problem and teach me details with proper example because  i am new to accounting system , i only learned double entry system recently
-
-do not read or write any file, i have given all necessary context in this prompt , give me ans codes in this chat do not write any file please 
-
-do you need to see any other files that you have given if needed please ask 
-
-
-Let's Think Step by Step
-```
-
-```
-Next files Please
-
-make the implementation to be minimal and elegant while keeping it fully functional, correct, and easy to understand. Prefer concise, idiomatic solutions over verbose ones.
-
-Let's Think Step by Step
 
 ```
 
-```
-Generate the new codes now in markdown in the chat, no artifacts or things like that
+please give me the updated code parts only do not write the whole file please ,for code part start with the "File: [path]" line , followed by the code block wraped by triple backticks with the language identifier.
 
-make the implementation to be minimal and elegant while keeping it fully functional, correct, and easy to understand. Prefer concise, idiomatic solutions over verbose ones.
-
-Let's Think Step by Step
 ```
+
+
+
+
 
 
 ```
@@ -214,6 +167,10 @@ ans to be minimal and elegant  while keeping it fully functional, correct, easy 
 
 
 Let's Think Step by Step
+```
+
+```
+this is one of the most important module so think/reason excessivly and give best possible solution
 ```
 
 
