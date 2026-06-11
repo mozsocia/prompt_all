@@ -1,7 +1,7 @@
 
 
 ```
-Analyze only/ staged changes (` git status ; git diff --staged ; git log -n 5` ) provide a short commit message with some bullet point details following the project's style. Output only the text of the message without line numbers or code blocks. so I can easily copy and paste it.
+Analyze only/ staged changes ( run this command one time only to get all info ` git status ; git diff --staged ; git log -n 5`  do not run any other command please  give commit message based on this info) provide a short commit message with some bullet point details following the project's style.
 ```
 
 ```
@@ -11,12 +11,17 @@ this is a very important topics please think/reason excessively and give me best
 ```
 
 ```
+answer should be minimal and elegant  while keeping it  easy to understand and keep it highly understandable  for beginner
+
+```
+
+```
 i have given all necessary context in this prompt , give me ans  in this chat do not write any file/ or create artifacts please 
 ```
 
 ```
 
-first describe me what will you do to solve the problem , after i read the guide i will ask you to give solution codes
+first describe me what will you do to solve the problem you plan with no codes, after i read the guide i will ask you to give solution codes
 
 implementation to be minimal and elegant  while keeping it fully functional, correct, easy to understand and keep it highly readable for humans. Prefer concise, idiomatic solutions over verbose ones.
 
@@ -31,6 +36,7 @@ Generate the new implementation code now, for code part start with the "File: [p
 
 implementation to be minimal and elegant  while keeping it fully functional, correct, easy to understand and keep it highly readable for humans. Prefer concise, idiomatic solutions over verbose ones.
 
+this is one of the most important app for a professional user so think/reason excessivly to cover all cases and edge cases
 
 Let's Think Step by Step
 ```
@@ -66,6 +72,10 @@ thoroughly reviewe the files you created/modified  and cross-referenced them wit
 ```
 
 ```
+please give a brief short summary what what have been implemented for what purporse  which i will use to future references
+```
+
+```
 
 Generate the new code in diff mode now, for diff part start with the "File: [path]" line , followed by the code/diff block wraped by triple backticks with the language identifier.
 
@@ -83,7 +93,11 @@ make the implementation to be minimal and elegant while keeping it fully functio
 
 
 ```
-first describe me what will you do to solve the problem , after i read the guide i will ask you to give solution codes
+first describe me what will you do to solve the problem you plan with no codes, after i read the guide i will ask you to give solution codes
+```
+
+```
+now please give me a good well structured plan to implement 'this landed cost approach'. plan should be in form of detailed guide or steps but no codes. i will give this plan to you in new fresh chat to implement the code 
 ```
 
 ```
