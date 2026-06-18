@@ -122,6 +122,10 @@ They do this by applying penny allocation (largest-remainder) to distribute the 
 ---
 ```
 
+```
+ans me i short , so you are saying the system is working perfectly as accounting standard? all other standard accounting software will do the same ?
+```
+
 
 
 
