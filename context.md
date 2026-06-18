@@ -111,7 +111,16 @@ do you need to see any other files that you have given if needed please ask
 make a small docs for devs , what you did , why its needs, how it works, please make the docs in 150-170 lines 
 ```
 
+```
+ok , now give a well structured prompt to apply below things you said in previous ans, i will use this prompt in new fresh chat to update the codebase , please make the prompt short with no codes and concise so i can use it to implement the update in new fresh chat
 
+---
+Line-level display — not standard. Every major accounting software ensures:
+
+Σ line.tax_amount == invoice.tax_total at display precision
+They do this by applying penny allocation (largest-remainder) to distribute the rounded total back to lines. 
+---
+```
 
 
 
