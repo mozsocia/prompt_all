@@ -1,4 +1,7 @@
 
+```
+do not read or write any file, i have given all necessary context in this prompt , give me ans in this chat do not write any file please
+```
 
 ```
 Analyze only/ staged changes ( run this command one time only to get all info ` git status ; git diff --staged ; git log -n 5`  do not run any other command please  give commit message based on this info) provide a short commit message with some bullet point details following the project's style.
