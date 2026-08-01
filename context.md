@@ -212,3 +212,8 @@ now i need to deeply understand the 'bill' module creating bill full workflow st
 - specially make deep and clear flow of data in 'tax calculation' 'tax rounding' 'default account resolve' part , this is the most important part to understand in this module, if this 'tax calculation' 'tax rounding' part do not get clear understanding i can have a unusable or misunderstand accounting system
 
 ```
+
+```
+
+give me a full details guide with every step details short concise which i will use to give cli code editor in a fresh new chat to apply and update the full project to your new implementation. the cli code editor will be responsible for updating my project to the professional standard project using your consice details guide. the cli code editor must have full context with new updated codes so the cli code editor will just apply the edits with less thinking and easy comfortable way with less effort
+```
